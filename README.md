@@ -1,6 +1,4 @@
 # Web-Network-Admin
-# WebAdmin
-
 
 ## Detailed Workflow
 1. `operations.py`
